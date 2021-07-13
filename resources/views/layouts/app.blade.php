@@ -43,7 +43,7 @@
 
 <footer class="footer bg-primary pt-4 pb-4 mt-4 fixed-bottom">
     <div class="container">
-        <h3><strong>Hackday 2021</strong></h3>
+        <h3><strong>Hackday 2021 v2</strong></h3>
     </div>
 </footer>
 
